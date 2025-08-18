@@ -14,7 +14,7 @@ url: https://jdq818.github.io/
 # --------------------------------------------------
 owner:
   name: Dengqiang Jia
-  avatar: dengqiangjia.jpg
+  avatar: xijiang_jdq.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: dengqiang.jia@mpu.edu.mo
   # cv: https://jdq818.github.io//file/CV-HanlinCAI.pdf
@@ -50,16 +50,16 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: 中文
-    url: /cn/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Hobbies
+  #   url: /hobbies/
+  # - title: Blogs
+  #   url: /blogs/
+  # - title: 中文
+  #   url: /cn/
 
 
 # --------------------------------------------------

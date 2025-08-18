@@ -19,6 +19,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 - Medical Image Analysis
 - Biomechanics
+
 ---
 
 ## News and Updates
