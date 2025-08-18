@@ -8,7 +8,7 @@ layout: page
 
 Here is **Dengqiang JIA (Jayden, 贾灯强)**.<br>
 
-I am a lecturer in the 
+I am a Lecturer of the Faculty of Applied Sciences in Macao Polytechnic Universtiy (MPU).
 
 Prior to MPU, I have worked on. Besides, I was honored to be selected as
 
