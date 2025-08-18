@@ -25,21 +25,22 @@ Notes, demos, and links.
 <img src="https://jdq818.github.io/images/research/Mesh/Motion3.gif" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/images/research/Mesh/Motion4.gif" alt="image" onclick="showModal(this)">
 <br>
-<img src="https://jdq818.github.io/images/research/Mesh/Motion5.png" alt="image" onclick="showModal(this)">
 </div>
 
+<div class="third">
+<img src="https://jdq818.github.io/images/research/Mesh/Motion5.png" alt="image" onclick="showModal(this)">
 <br>
+</div>
+
 
 # Notes
 ## Algorithms
 ### Computer vision 
-<br>
 
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 
-<br>
 
 ### Segmentation
 
