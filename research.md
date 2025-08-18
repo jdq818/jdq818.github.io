@@ -7,14 +7,28 @@ title: Research
 Notes, demos, and links.
 
 # Demos
-## Vascular wall motion
+## Vascular simulations
 <div class="third">
-<img src="https://jdq818.github.io/images/research/vesselwall.gif" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/images/research/bloods.gif" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/images/research/lesion.gif" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/FSI/vesselwall.gif" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/FSI/bloods.gif" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/FSI/lesion.gif" alt="image" onclick="showModal(this)">
 </div>
 <br>
 
+## Coroanry motion
+<div class="third">
+<img src="https://jdq818.github.io/images/research/Mesh/Motion1.gif" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/Mesh/Motion2.gif" alt="image" onclick="showModal(this)">
+</div>
+
+<div class="third">
+<img src="https://jdq818.github.io/images/research/Mesh/Motion3.gif" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/Mesh/Motion4.gif" alt="image" onclick="showModal(this)">
+<br>
+<img src="https://jdq818.github.io/images/research/Mesh/Motion5.png" alt="image" onclick="showModal(this)">
+</div>
+
+<br>
 
 # Notes
 ## Algorithms
@@ -41,16 +55,18 @@ Notes, demos, and links.
 
 
 ## Theory
-### Transformer<br>
+### Transformer
+
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 
-### Diffusion<br>
+### Diffusion
+
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
-<br>
+
 
 # Links
 ## Zmic
