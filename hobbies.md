@@ -49,7 +49,6 @@ I would like record my feelings and life by writings.
 <img src="https://jdq818.github.io/hobbies/poems/Contemplation.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/TheDist.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Firstsnow.jpg" alt="image" onclick="showModal(this)">
-</div>
 <br>
 
 <div class="third">
