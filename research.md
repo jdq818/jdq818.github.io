@@ -19,32 +19,27 @@ Notes, demos, and links.
 # Notes
 ## Algorithms
 ### Computer vision<br>
-
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 
 ### Segmentation<br>
-
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 
 ### Registration<br>
-
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 
 
 ## Theory<br>
-| Publication| Title | Link | Code |
-|------|------|:----:|------|
-|Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 ### Transformer<br>
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
+
 ### Diffusion<br>
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
