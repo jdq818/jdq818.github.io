@@ -32,6 +32,12 @@ Notes, demos, and links.
 
 <div class="third">
 <img src="https://jdq818.github.io/images/research/vesselwall.gif" alt="image" onclick="showModal(this)">
+<div class="third">
+<img src="https://jdq818.github.io/images/research/bloods.gif" alt="image" onclick="showModal(this)">
+<div class="third">
+<img src="https://jdq818.github.io/images/research/lesion.gif" alt="image" onclick="showModal(this)">
+
+
 </div>
 
 <script>
@@ -48,3 +54,10 @@ Notes, demos, and links.
    }
 </script>
 <br>
+
+# Notes
+
+
+# Links
+## [Brain-Heart-Gut Axis](supramarginal.top/pubmed)
+By Dr. Bai Shuwei
