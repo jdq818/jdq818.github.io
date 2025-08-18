@@ -12,7 +12,8 @@ I would like record my feelings and life by writings.
 
 <div class="third">
 <img src="https://jdq818.github.io/hobbies/poems/Contemplation.jpg">
-<img src="https://jdq818.github.io/hobbies/poems/Firstsnow.jpg">
+</div>
+<div class="third">
 <img src="https://jdq818.github.io/hobbies/poems/TheDist.jpg">
 </div>
 <br>Poems.
