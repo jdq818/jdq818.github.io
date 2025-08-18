@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+ <img src="https://dengqiangjia.com/dengqiangjia.jpg" class="floatpic">
 
 Here is **Dengqiang JIA (Jayden, 贾灯强)**.<br>
 
