@@ -38,10 +38,10 @@ I would like record my feelings and life by writings.
 <img src="https://jdq818.github.io/hobbies/poems/Monks.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Xiaozun.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Walk.jpg" alt="image" onclick="showModal(this)"><br>
+
 <div id="modal" class="modal" onclick="hideModal()">
   <img id="modal-image" class="modal-image">
-</div>
- 
+
 <script>
    function showModal(image) {
       var modal = document.getElementById("modal");
