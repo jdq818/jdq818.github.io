@@ -18,10 +18,11 @@ Notes, demos, and links.
 
 # Notes
 ## Algorithms
-### Computer vision <br>
+### Computer vision 
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
+<br>
 
 ### Segmentation
 | Publication| Title | Link | Code |
