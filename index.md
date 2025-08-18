@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
- <img src="https://github.com/jdq818/jdq818.github.io/blob/main/dengqiangjia.jpg" class="floatpic">
+ <img src="https://jdq818.github.io/dengqiangjia.jpg" class="floatpic">
 
 Here is **Dengqiang JIA (Jayden, 贾灯强)**.<br>
 
