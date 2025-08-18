@@ -11,6 +11,6 @@ Notes, demos, and links.
 ## Vascular wall motion
 
 <div class="third">
-<img src="/images/research/vesselwall.wmv">
+<img src="https://jdq818.github.io/images/research/vesselwall.wmv">
 </div>
 <br>
