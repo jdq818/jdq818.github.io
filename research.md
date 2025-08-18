@@ -17,18 +17,13 @@ Notes, demos, and links.
 </div>
 <br>
 
----
-
 
 # Notes
 ## Algorithms
 ## Theory
-
----
+xxx <br>
 
 # Links
-<br>xxxx
-
 ## Brain-Heart-Gut Axis
-[Brain-Heart-Gut Axis](supramarginal.top/pubmed)
+[Brain-Heart-Gut Axis](http://supramarginal.top/pubmed)
 By Dr. Bai Shuwei <br>
