@@ -6,9 +6,9 @@ title: Research
 
 Notes, demos, and links.
 
-# Hobbies
+# Demos
 
-## Poems
+## Vascular wall motion
 
 <div class="third">
 <img src="/images/research/vesselwall.wmv">
