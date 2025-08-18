@@ -29,19 +29,8 @@ I would like record my feelings and life by writings.
       margin-top: 5%;
    }
 </style>
-
-<div class="third">
-<img src="https://jdq818.github.io/hobbies/poems/Contemplation.jpg" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/hobbies/poems/TheDist.jpg" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/hobbies/poems/Firstsnow.jpg" alt="image" onclick="showModal(this)"><br>
-<div class="third">
-<img src="https://jdq818.github.io/hobbies/poems/Monks.jpg" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/hobbies/poems/Xiaozun.jpg" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/hobbies/poems/Walk.jpg" alt="image" onclick="showModal(this)"><br>
-
 <div id="modal" class="modal" onclick="hideModal()">
   <img id="modal-image" class="modal-image">
-
 <script>
    function showModal(image) {
       var modal = document.getElementById("modal");
@@ -55,6 +44,17 @@ I would like record my feelings and life by writings.
       modal.style.display = "none";
    }
 </script>
+
+<div class="third">
+<img src="https://jdq818.github.io/hobbies/poems/Contemplation.jpg" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/hobbies/poems/TheDist.jpg" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/hobbies/poems/Firstsnow.jpg" alt="image" onclick="showModal(this)"><br>
+<div class="third">
+<img src="https://jdq818.github.io/hobbies/poems/Monks.jpg" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/hobbies/poems/Xiaozun.jpg" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/hobbies/poems/Walk.jpg" alt="image" onclick="showModal(this)"><br>
+
+
 <br>
 
 ## Readings
