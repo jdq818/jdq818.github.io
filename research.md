@@ -36,10 +36,7 @@ Notes, demos, and links.
 <img src="https://jdq818.github.io/images/research/bloods.gif" alt="image" onclick="showModal(this)">
 <div class="third">
 <img src="https://jdq818.github.io/images/research/lesion.gif" alt="image" onclick="showModal(this)">
-
-
 </div>
-
 <script>
    function showModal(image) {
       var modal = document.getElementById("modal");
@@ -59,5 +56,6 @@ Notes, demos, and links.
 
 
 # Links
-## [Brain-Heart-Gut Axis](supramarginal.top/pubmed)
+## Brain-Heart-Gut Axis
+[Brain-Heart-Gut Axis](supramarginal.top/pubmed)
 By Dr. Bai Shuwei
