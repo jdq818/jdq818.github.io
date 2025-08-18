@@ -52,11 +52,13 @@ links:
   - title: About Me
     url: /
   - title: Publications
-  #   url: /publications/
-  # - title: Awards
-  #   url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+  - title: Projects
+    url: /projects/
+  - title: Hobbies
+    url: /hobbies/
   # - title: Blogs
   #   url: /blogs/
   # - title: 中文
