@@ -10,7 +10,8 @@ Notes, demos, and links.
 
 ## Vascular wall motion
 
-<div class="third">
-<img src="https://jdq818.github.io/images/research/vesselwall.wmv">
+<div class="x-frame">
+<!-- <video src="https://jdq818.github.io/images/research/vesselwall.wmv"> -->
+<iframe width="420" height="315" src="https://jdq818.github.io/images/research/vesselwall.wmv" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
