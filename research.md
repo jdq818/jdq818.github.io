@@ -8,14 +8,12 @@ Notes, demos, and links.
 
 # Demos
 ## Vascular wall motion
-<!-- <div class="third">
+<div class="third">
 <img src="https://jdq818.github.io/images/research/vesselwall.gif" alt="image" onclick="showModal(this)">
-<div class="third">
 <img src="https://jdq818.github.io/images/research/bloods.gif" alt="image" onclick="showModal(this)">
-<div class="third">
 <img src="https://jdq818.github.io/images/research/lesion.gif" alt="image" onclick="showModal(this)">
 </div>
-<br> -->
+<br>
 
 
 # Notes
