@@ -33,6 +33,7 @@ owner:
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
+  wechat: JDQ_MO
 
 
 # --------------------------------------------------
@@ -50,7 +51,7 @@ owner:
 links:
   - title: About Me
     url: /
-  # - title: Publications
+  - title: Publications
   #   url: /publications/
   # - title: Awards
   #   url: /awards/
