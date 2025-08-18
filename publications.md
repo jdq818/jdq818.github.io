@@ -22,8 +22,6 @@ title: Publications
 
 ## Degree Thesis
 
-- RESEARCH ON MEDICAL IMAGE ANALYSIS ALGORITHM FOR CORONARY BIOMECHANICAL SIMULATION<br>Dengqiang Jia<br>2022<br> (Supervisor: Xiahai Zhuang)
-
-  <br>
+- RESEARCH ON MEDICAL IMAGE ANALYSIS ALGORITHM FOR CORONARY BIOMECHANICAL SIMULATION<br>Dengqiang Jia<br>2022<br> (Supervisor: Xiahai Zhuang)<br>
 
 <br>
