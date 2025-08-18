@@ -11,8 +11,8 @@ I would like record my feelings and life by writings.
 ## Poems
 
 <div class="third">
-<img src="/poems/Contemplation by Lake Onuma.JPG">
-<img src="/poems/First snowfall Visiting graves before New Year's Eve.JPG">
-<img src="/poems/The distance between me and Yulong Snow Mountain.JPG">
+<img src="/poems/Contemplation.JPG">
+<img src="/poems/Firstsnow.JPG">
+<img src="/poems/TheDist.JPG">
 </div>
 <br>Poems.
