@@ -31,6 +31,7 @@ I would like record my feelings and life by writings.
 </style>
 <div id="modal" class="modal" onclick="hideModal()">
   <img id="modal-image" class="modal-image">
+</div>
 <script>
    function showModal(image) {
       var modal = document.getElementById("modal");
@@ -38,7 +39,6 @@ I would like record my feelings and life by writings.
       modal.style.display = "block";
       modalImage.src = image.src;
    }
- 
    function hideModal() {
       var modal = document.getElementById("modal");
       modal.style.display = "none";
@@ -49,14 +49,10 @@ I would like record my feelings and life by writings.
 <img src="https://jdq818.github.io/hobbies/poems/Contemplation.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/TheDist.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Firstsnow.jpg" alt="image" onclick="showModal(this)">
-<br>
-
-<div class="third">
 <img src="https://jdq818.github.io/hobbies/poems/Monks.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Xiaozun.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Walk.jpg" alt="image" onclick="showModal(this)">
 </div>
-<br>
 
 <br>
 
