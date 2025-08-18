@@ -16,7 +16,7 @@ title: Publications
 
 - [DVasMesh: Deep Structured Mesh Reconstruction from Vascular Images for Dynamics Modeling of Vessels](https://link.springer.com/chapter/10.1007/978-3-031-83243-7_11)<br>**Dengqiang Jia**,  Xinnian Yang, Xiaosong Xiong, Shijie Huang, Feiyu Hou, Li Qin, Kaicong Sun, Kannie Wai Yan Chan & Dinggang Shen~<br>International Workshop on Graphs in Biomedical Image Analysis<br>2024<br>
 
-- [Deep Combined Computing of Vascular Images with Tubular Shape-Guided Convolution](https://link.springer.com/chapter/10.1007/978-3-031-75291-9_4)<br>**Zilong Wang**,  Xinyang Ge, Xiaorong Chen, Lei Li, Wangbin Ding, Yuanye Liu, Fuping Wu & Dengqiang Jia~<br>International Workshop on Shape in Medical Imaging<br>2024<br>
+- [Deep Combined Computing of Vascular Images with Tubular Shape-Guided Convolution](https://link.springer.com/chapter/10.1007/978-3-031-75291-9_4)<br>Zilong Wang,  Xinyang Ge, Xiaorong Chen, Lei Li, Wangbin Ding, Yuanye Liu, Fuping Wu & **Dengqiang Jia**~<br>International Workshop on Shape in Medical Imaging<br>2024<br>
 
 ---
 

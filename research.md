@@ -18,6 +18,7 @@ Notes, demos, and links.
 
 # Notes
 ## Algorithms
+Computer vision
 ## Theory
 xxx <br>
 
