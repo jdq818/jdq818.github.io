@@ -54,18 +54,11 @@ Notes, demos, and links.
 
 ## Coroanry motion
 <div class="third">
-<img src="https://jdq818.github.io/images/research/Mesh/Motion1.gif" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/images/research/Mesh/Motion2.gif" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/Mesh/vmesh.gif" alt="image" onclick="showModal(this)">
 </div>
 
 <div class="third">
-<img src="https://jdq818.github.io/images/research/Mesh/Motion3.gif" alt="image" onclick="showModal(this)">
-<img src="https://jdq818.github.io/images/research/Mesh/Motion4.gif" alt="image" onclick="showModal(this)">
-<br>
-</div>
-
-<div class="third">
-<img src="https://jdq818.github.io/images/research/Mesh/Motion5.png" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/Mesh/cmotion.gif" alt="image" onclick="showModal(this)">
 <br>
 </div>
 
