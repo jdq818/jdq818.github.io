@@ -52,6 +52,11 @@ Notes, demos, and links.
 </div>
 <br>
 
+## Vascular image segmentation
+<div class="third">
+<img src="https://jdq818.github.io/images/research/Mesh/seg.png" alt="image" onclick="showModal(this)">
+</div>
+
 ## Vascular mesh
 <div class="third">
 <img src="https://jdq818.github.io/images/research/Mesh/meshquality.png" alt="image" onclick="showModal(this)">
