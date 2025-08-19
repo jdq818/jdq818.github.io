@@ -9,7 +9,11 @@ title: Publications
 ## Journal Paper
 
 - [Learning-based algorithms for vessel tracking: A review](https://www.sciencedirect.com/science/article/abs/pii/S089561112030135X)<br>**Dengqiang Jia**, Xiahai Zhuang~<br>Medical Imaging and Graphics<br>2021<br>
-  
+
+- [Directional fast-marching and multi-model strategy to extract coronary artery centerlines](https://www.sciencedirect.com/science/article/abs/pii/S0010482519301088)<br>**Dengqiang Jia**, Xiahai Zhuang~<br>Computers in Biology and Medicine<br>2019<br>
+
+- [Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ quantification: the FLARE22 challenge](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4myVXIkAAAAJ&citation_for_view=4myVXIkAAAAJ%3AzYLM7Y9cAGgC&inst=5954688638886299710)<br>Jun Ma, ..., **Dengqiang Jia**,...<br>The Lancet Digital Health<br>2024<br>
+
 ---
 
 ## Conference Paper

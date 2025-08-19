@@ -54,7 +54,7 @@ Notes, demos, and links.
 
 ## Coroanry motion
 <div class="third">
-<img src="https://jdq818.github.io/images/research/Mesh/vmesh.gif" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/images/research/Mesh/vsmesh.gif" alt="image" onclick="showModal(this)">
 </div>
 
 <div class="third">
@@ -65,24 +65,17 @@ Notes, demos, and links.
 
 # Notes
 ## Algorithms
-### Computer vision 
-
-| Publication| Title | Link | Code |
-|------|------|:----:|------|
-|Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
-
-
 ### Segmentation
 
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
-|Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
+|TMI 25.07.18 | SegMamba-V2: Long-range Sequential Modeling Mamba For General 3D Medical Image Segmentation |  [Paper](https://ieeexplore.ieee.org/document/11084842) | [Code](https://github.com/ge-xing/SegMamba-V2); |
 
 ### Registration
 
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
-|Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
+|TMI 25.07.03 | Joint Shape Reconstruction and Registration via a Shared Hybrid Diffeomorphic Flow |  [Paper](https://ieeexplore.ieee.org/document/11069310) | -; |
 
 
 ## Theory
@@ -90,14 +83,19 @@ Notes, demos, and links.
 
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
-|Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
+|TPAMI 25.09| Taylor-Series-Expansion-Based Vision Transformer Models |  [Paper](https://ieeexplore-ieee-org.mpu.idm.oclc.org/document/11030317/) | -; |
 
 ### Diffusion
 
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
-|Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
+TPAMI 25.07.03 | Temporal Feature Matters: A Framework for Diffusion Model Quantization |  [Paper](https://ieeexplore.ieee.org/document/11068163) | -; |
 
+### Others
+
+| Publication| Title | Link | Code |
+|------|------|:----:|------|
+|Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 
 # Links
 ## Zmic
