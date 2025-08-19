@@ -9,8 +9,8 @@ layout: page
 
 Here is **Dengqiang JIA (Jayden, 贾灯强)**.<br>
 
-I am a Lecturer of the Faculty of Applied Sciences in Macao Polytechnic Universtiy (MPU).
-Prior to MPU, I have worked on Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE) for 2 years as an associate research scientist. 
+I am a Lecturer at the Faculty of Applied Sciences, Macao Polytechnic Universtiy (MPU).
+Before joining MPU, I spent two years as an an Associate Research Scientist at the Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE).
 
 Feel free to reach out to me at — **dengqiang.jia@mpu.edu.mo**
 
