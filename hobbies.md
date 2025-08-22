@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-I would like record my feelings and life by writings.
+I would like to record my feelings and life by writings.
 
 # Hobbies
 
