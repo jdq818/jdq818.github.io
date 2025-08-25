@@ -8,7 +8,7 @@ layout: page
 <img src="https://jdq818.github.io/dengqiangjia.jpg" class="floatpic">
 
 **Dengqiang JIA (Jayden, 贾灯强)** is a Lecturer at the Faculty of Applied Sciences, Macao Polytechnic Universtiy (MPU).
-Before joining MPU, He spent two years as an an Associate Research Scientist at the Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE).
+Before joining MPU, he spent two years as an an Associate Research Scientist at the Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE).
 
 Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 
