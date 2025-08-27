@@ -15,13 +15,14 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ---
 ## Educations
 
-- 2025- a Lecturer at the Faculty of Applied Sciences, Macao Polytechnic Universtiy (MPU).
-- 2023-2025 Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), Postdoc supervised by Dinggang Shen
-- 2015-2022 Shanghai Jiao Tong University, phD supervised by Xiahai Zhuang
+- 2025-: A Lecturer at the Faculty of Applied Sciences, Macao Polytechnic Universtiy (MPU).
+- 2023-2025: Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), Postdoc supervised by Prof. Dinggang Shen
+- 2015-2022: Shanghai Jiao Tong University, phD supervised by Prof. Xiahai Zhuang
 
 ## Research Interests
 
 - Medical Image Analysis
+- Vascular Image Computing
 - Biomechanics
 
 ---
