@@ -6,7 +6,7 @@ title: Projects
 
 ### 2025
 
-- [To be continue](-)<br>
+- [To be continued](-)<br>
 
 
 <br>
