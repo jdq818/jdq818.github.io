@@ -120,8 +120,10 @@ TPAMI 25.07.03 | Temporal Feature Matters: A Framework for Diffusion Model Quant
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
 
 # Links
+## IDEA Lab
+[IDEA_Lab](https://idea.bme.shanghaitech.edu.cn/)<br>
 ## Zmic
 [Zmic](https://zmiclab.github.io/index.html)<br>
 ## Brain-Heart-Gut Axis
-[Brain-Heart-Gut Axis](http://supramarginal.top/pubmed)
+[Brain-Heart-Gut Axis](http://supramarginal.top/pubmed)<br>
 By Dr. Bai Shuwei <br>
