@@ -86,20 +86,6 @@ Notes, demos, and links.
 </div>
 
 # Notes
-## Algorithms
-### Segmentation
-
-| Publication| Title | Link | Code |
-|------|------|:----:|------|
-|TMI 25.07.18 | SegMamba-V2: Long-range Sequential Modeling Mamba For General 3D Medical Image Segmentation |  [Paper](https://ieeexplore.ieee.org/document/11084842) | [Code](https://github.com/ge-xing/SegMamba-V2); |
-
-### Registration
-
-| Publication| Title | Link | Code |
-|------|------|:----:|------|
-|TMI 25.07.03 | Joint Shape Reconstruction and Registration via a Shared Hybrid Diffeomorphic Flow |  [Paper](https://ieeexplore.ieee.org/document/11069310) | -; |
-
-
 ## Theory
 ### Transformer
 
@@ -118,6 +104,21 @@ TPAMI 25.07.03 | Temporal Feature Matters: A Framework for Diffusion Model Quant
 | Publication| Title | Link | Code |
 |------|------|:----:|------|
 |Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |  [Paper](https://arxiv.org/abs/2403.03234) | [Code](https://github.com/wangtz19/NetMamba); |
+## Algorithms
+### Segmentation
+
+| Publication| Title | Link | Code |
+|------|------|:----:|------|
+|TMI 25.07.18 | SegMamba-V2: Long-range Sequential Modeling Mamba For General 3D Medical Image Segmentation |  [Paper](https://ieeexplore.ieee.org/document/11084842) | [Code](https://github.com/ge-xing/SegMamba-V2); |
+
+### Registration
+
+| Publication| Title | Link | Code |
+|------|------|:----:|------|
+|TMI 25.07.03 | Joint Shape Reconstruction and Registration via a Shared Hybrid Diffeomorphic Flow |  [Paper](https://ieeexplore.ieee.org/document/11069310) | -; |
+
+## Public Dataset
+
 
 # Links
 ## IDEA Lab
