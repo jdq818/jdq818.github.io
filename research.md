@@ -127,5 +127,4 @@ TPAMI 25.07.03 | Temporal Feature Matters: A Framework for Diffusion Model Quant
 ## Zmic
 [Zmic](https://zmiclab.github.io/index.html)<br>
 ## Brain-Heart-Gut Axis
-[Brain-Heart-Gut Axis](http://supramarginal.top/pubmed)<br>
-By Dr. Bai Shuwei <br>
+[Brain-Heart-Gut Axis By Dr. Bai Shuwei](http://supramarginal.top/pubmed) <br>
