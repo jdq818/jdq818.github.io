@@ -34,6 +34,5 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 - **Jul 2025**：One paper is accepted by **"Nature Communications"**
 <br>
 
-Total <span id="busuanzi_container_site_pv">
-    You are the <span id="busuanzi_value_site_uv"></span> lucky dog!
-<span id="busuanzi_value_page_pv"></span> Hits
+ <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">Total<span id="busuanzi_value_site_pv"></span>Hits</span>
