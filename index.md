@@ -16,7 +16,7 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ## Educations
 
 - 2025-: A Lecturer at the Faculty of Applied Sciences, Macao Polytechnic Universtiy (MPU).
-- 2023-2025: Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), Postdoc supervised by Prof. [Dinggang SHEN](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en&inst=5954688638886299710)
+- 2023-2025: Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), Postdoc cosupervised by Prof. [Dinggang SHEN](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en&inst=5954688638886299710)
 - 2015-2022: Shanghai Jiao Tong University, phD supervised by Prof. [Xiahai ZHUANG](https://scholar.google.com/citations?user=XlavIMcAAAAJ&hl=en&inst=5954688638886299710)
 
 ## Research Interests
