@@ -28,7 +28,7 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ---
 
 ## News and Updates
-
+- **Oct 2025**：Two (1 regular and 1 short) papers are accepted by BIBM.
 - **Aug 2025**：New teachings in MPU.
 - **Jul 2025**：[First Prize, Undergraduate Group, 10th National Biomedical Engineering Innovation Design Competition for College Students](https://control.sdu.edu.cn/info/1057/7638.htm)(Supervisors: Debao Guan and Dengqiang Jia)
 - **Jul 2025**：One paper is accepted by **"Nature Communications"**
