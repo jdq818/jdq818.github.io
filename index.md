@@ -28,6 +28,8 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ---
 
 ## News and Updates
+- **Jan 2026**：New teaching by Dr Jia: Advanced Topics in A.I. I-Medical Imaging Intelligence
+- **Dec 2025**：Good luck for the final exam.
 - **Nov 2025**：Two research articles are accepted by [JBHI](https://www.embs.org/jbhi/).
 - **Oct 2025**：Two (1 regular and 1 short) papers are accepted by [BIBM](https://biod.whu.edu.cn/bibm2025/).
 - **Aug 2025**：New teachings in MPU.
