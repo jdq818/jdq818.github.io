@@ -28,13 +28,13 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ---
 
 ## News and Updates
-- **Jan 2026**：New teaching by Dr Jia: Advanced Topics in A.I. I-Medical Imaging Intelligence. One paper is accepted by [**CMIG**[IF=4.9]](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics).
-- **Dec 2025**：Good luck for the final exam.
-- **Nov 2025**：Two research articles are accepted by [**JBHI**[IF=6.9]](https://www.embs.org/jbhi/).
-- **Oct 2025**：Two (1 regular and 1 short) papers are accepted by [**BIBM**[CCF-B]](https://biod.whu.edu.cn/bibm2025/).
+- **Jan 2026**：New teaching by Dr Jia: Advanced Topics in A.I. I-Medical Imaging Intelligence. One journal paper is accepted by [**CMIG**[IF=4.9]](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics).
+- **Dec 2025**：Good luck on your final exam.
+- **Nov 2025**：Two journal papers are accepted by [**JBHI**[IF=6.9]](https://www.embs.org/jbhi/).
+- **Oct 2025**：Two (1 regular and 1 short) conference papers are accepted by [**BIBM**[CCF-B]](https://biod.whu.edu.cn/bibm2025/).
 - **Aug 2025**：New teachings in MPU.
 - **Jul 2025**：[First Prize, Undergraduate Group, 10th National Biomedical Engineering Innovation Design Competition for College Students](https://control.sdu.edu.cn/info/1057/7638.htm)(Supervisors: [Debao Guan](https://scholar.google.com/citations?user=amttoHcAAAAJ&hl=zh-TW&oi=ao) and [Dengqiang Jia](https://scholar.google.com/citations?user=4myVXIkAAAAJ&hl=en&oi=ao))
-- **Jul 2025**：One paper is accepted by [**Nature Communications**[IF=15.7]](https://www.nature.com/ncomms/)
+- **Jul 2025**：One journal paper is accepted by [**Nature Communications**[IF=15.7]](https://www.nature.com/ncomms/)
 <br>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
