@@ -20,7 +20,9 @@ title: Publications
 
 - [Transferring adult-like phase images for robust multi-view isointense infant brain segmentation](https://ieeexplore.ieee.org/abstract/document/10601708)<br>Huangbin Liu, ..., **Dengqiang Jia**, ..., Dinggang Shen~<br>IEEE Transactions on Medical Imaging<br>2024<br>
 
+
 - [Super-resolution Reconstruction of Fetal Brain MRI with Multi-view Interpolation Weight Learning](https://ieeexplore-ieee-org.mpu.idm.oclc.org/abstract/document/11271599)<br>Shijie Huang†, **Dengqiang Jia**†, ..., Dinggang Shen~<br>IEEE Journal of Biomedical and Health Informatics<br>2025<br>
+
 ---
 
 ## Conference Paper
