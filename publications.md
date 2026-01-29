@@ -14,10 +14,13 @@ title: Publications
 
 - [Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ quantification: the FLARE22 challenge](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00154-7/fulltext?uuid=uuid%3A5fab0875-341b-4fc5-9e66-b3002f96d307)<br>Jun Ma, ..., **Dengqiang Jia**,...<br>The Lancet Digital Health<br>2024<br>
 
+- [Deciphering age-and sex-specific patterns of coronary artery atherosclerosis from a large Chinese cohort](https://www.nature.com/articles/s41467-025-64940-8)<br>Xinnian Yang, ..., **Dengqiang Jia**,..., Dinggang Shen<br>Nature Communications<br>2025<br>
+
 - [Multi-target landmark detection with incomplete images via reinforcement learning and shape prior embedding](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001354)<br>Kaiwen Wan, ..., **Dengqiang Jia**, ..., Xiahai Zhuang~<br>Medical Image Analysis<br>2023<br>
 
 - [Transferring adult-like phase images for robust multi-view isointense infant brain segmentation](https://ieeexplore.ieee.org/abstract/document/10601708)<br>Huangbin Liu, ..., **Dengqiang Jia**, ..., Dinggang Shen~<br>IEEE Transactions on Medical Imaging<br>2024<br>
 
+- [Super-resolution Reconstruction of Fetal Brain MRI with Multi-view Interpolation Weight Learning](https://ieeexplore-ieee-org.mpu.idm.oclc.org/abstract/document/11271599)<br>Shijie Huang†, **Dengqiang Jia**†, ..., Dinggang Shen~<br>IEEE Journal of Biomedical and Health Informatics<br>2025<br>
 ---
 
 ## Conference Paper
