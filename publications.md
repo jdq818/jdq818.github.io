@@ -22,8 +22,6 @@ title: Publications
 
 - [Super-resolution Reconstruction of Fetal Brain MRI with Multi-view Interpolation Weight Learning](https://ieeexplore-ieee-org.mpu.idm.oclc.org/abstract/document/11271599)<br>Shijie Huang†, **Dengqiang Jia**†, ..., Dinggang Shen~<br>IEEE Journal of Biomedical and Health Informatics<br>2025<br>
 
-- [Super-resolution Reconstruction of Fetal Brain MRI with Multi-view Interpolation Weight Learning](https://ieeexplore-ieee-org.mpu.idm.oclc.org/abstract/document/11271599)<br>Shijie Huang†, **Dengqiang Jia**†, ..., Dinggang Shen~<br>IEEE Journal of Biomedical and Health Informatics<br>2025<br>
-
 ---
 
 ## Conference Paper

@@ -28,6 +28,7 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ---
 
 ## News and Updates
+- **Mar 2026**：One journal paper is accepted by [**IEEE Transactions on Medical Imaging**[IF=9.8]](https://ieeexplore-ieee-org.mpu.idm.oclc.org/xpl/RecentIssue.jsp?punumber=42).
 - **Jan 2026**：One journal paper is accepted by [**Journal of Biomedical and Health Informatics (JBHI)**[IF=6.9]](https://www.embs.org/jbhi/).
 - **Jan 2026**：One journal paper is accepted by [**Medical Physics**[IF=3.2]](https://aapm.onlinelibrary.wiley.com/journal/24734209).
 - **Jan 2026**：One journal paper is accepted by [**Computerized Medical Imaging and Graphics (CMIG)**[IF=4.9]](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics).
