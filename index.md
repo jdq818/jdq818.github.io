@@ -28,6 +28,7 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ---
 
 ## News and Updates
+- **May 2026**：Good luck on your final exam.
 - **Mar 2026**：One journal paper is accepted by [**IEEE Transactions on Medical Imaging (TMI)**[IF=9.8]](https://ieeexplore-ieee-org.mpu.idm.oclc.org/xpl/RecentIssue.jsp?punumber=42).
 - **Jan 2026**：One journal paper is accepted by [**Journal of Biomedical and Health Informatics (JBHI)**[IF=6.9]](https://www.embs.org/jbhi/).
 - **Jan 2026**：One journal paper is accepted by [**Medical Physics**[IF=3.2]](https://aapm.onlinelibrary.wiley.com/journal/24734209).
