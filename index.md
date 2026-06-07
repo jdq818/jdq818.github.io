@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-
 <img src="https://jdq818.github.io/dengqiangjia.jpg" class="floatpic">
 
 **Dengqiang JIA (Jayden, 贾灯强)** is a Lecturer at the Faculty of Applied Sciences, Macao Polytechnic Universtiy (MPU).
@@ -13,6 +12,7 @@ Before joining MPU, he spent two years as an Associate Research Scientist at the
 Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 
 ---
+
 ## Educations
 
 - 2025-: A Lecturer at the Faculty of Applied Sciences, Macao Polytechnic Universtiy (MPU).
@@ -28,19 +28,21 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 ---
 
 ## News and Updates
+
+- **June 2026**：One journal paper is accepted by [**npj Digital Medicine**[IF=12.4]](https://www.nature.com/npjdigitalmed/).
 - **May 2026**：Good luck on your final exam.
 - **Mar 2026**：One journal paper is accepted by [**IEEE Transactions on Medical Imaging (TMI)**[IF=9.8]](https://ieeexplore-ieee-org.mpu.idm.oclc.org/xpl/RecentIssue.jsp?punumber=42).
 - **Jan 2026**：One journal paper is accepted by [**Journal of Biomedical and Health Informatics (JBHI)**[IF=6.9]](https://www.embs.org/jbhi/).
 - **Jan 2026**：One journal paper is accepted by [**Medical Physics**[IF=3.2]](https://aapm.onlinelibrary.wiley.com/journal/24734209).
 - **Jan 2026**：One journal paper is accepted by [**Computerized Medical Imaging and Graphics (CMIG)**[IF=4.9]](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics).
-- **Jan 2026**：New teaching by Dr Jia: Advanced Topics in A.I. I-Medical Imaging Intelligence. 
+- **Jan 2026**：New teaching by Dr Jia: Advanced Topics in A.I. I-Medical Imaging Intelligence.
 - **Dec 2025**：Good luck on your final exam.
 - **Nov 2025**：Two journal papers are accepted by [**Journal of Biomedical and Health Informatics (JBHI)**[IF=6.9]](https://www.embs.org/jbhi/).
 - **Oct 2025**：Two (1 regular and 1 short) conference papers are accepted by [**BIBM**[CCF-B]](https://biod.whu.edu.cn/bibm2025/).
 - **Aug 2025**：New teachings in MPU.
 - **Jul 2025**：[First Prize, Undergraduate Group, 10th National Biomedical Engineering Innovation Design Competition for College Students](https://control.sdu.edu.cn/info/1057/7638.htm)(Supervisors: [Debao Guan](https://scholar.google.com/citations?user=amttoHcAAAAJ&hl=zh-TW&oi=ao) and [Dengqiang Jia](https://scholar.google.com/citations?user=4myVXIkAAAAJ&hl=en&oi=ao))
 - **Jul 2025**：One journal paper is accepted by [**Nature Communications**[IF=15.7]](https://www.nature.com/ncomms/)
-<br>
+  <br>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">
