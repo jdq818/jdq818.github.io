@@ -1,0 +1,41 @@
+{
+  "id": "P2317001",
+  "name": "Keyan Jin",
+  "file_name": "P2317001-Keyan Jin-defence-internal-ballot-form-2026-2-Bo Liu.pdf",
+
+  "sign_info": [
+    {
+      "name": "Bo Liu",
+      "email": "boliu@cqupt.edu.cn",
+      "signatures": {
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 169.0,
+            "y": 622.0,
+            "w": 82.0,
+            "h": 38.0,
+            "p": 1
+          },
+          {
+            "id": "box_002",
+            "x": 204.0,
+            "y": 725.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 2
+          }
+        ],
+        "type": "full"
+      }
+    },
+    {
+      "email": "yhlu@mpu.edu.mo",
+      "name": "Yuhuan Lu",
+      "signatures": {
+        "locations": [],
+        "type": "none"
+      }
+    }
+  ]
+}

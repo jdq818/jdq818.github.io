@@ -1,0 +1,86 @@
+{
+  "name": "Keyan Jin",
+  "gender": "Male",
+  "programme_code": "PCOM",
+  "id": "P2317001",
+  "email": "p2317001@mpu.edu.mo",
+  "chair": [
+    {
+      "name": "Wei Ke",
+      "email": "wke@mpu.edu.mo",
+      "role": "chair",
+      "online": "False"
+    }
+  ],
+  "supervisor": [
+    {
+      "name": "Hugo Gonçalo Oliveira",
+      "email": "hroliv@dei.uc.pt",
+      "role": "supervisor",
+      "online": "True"
+    },
+    {
+      "name": "Yapeng Wang",
+      "email": "yapengwang@mpu.edu.mo",
+      "role": "supervisor",
+      "online": "False"
+    }
+  ],
+  "internal_examiner": [
+    {
+      "name": "Patrick Cheong Iao Pang",
+      "email": "patrickpang@mpu.edu.mo",
+      "role": "internal_examiner",
+      "online": "False"
+    },
+    {
+      "name": "Catarina Silva",
+      "email": "catarina@dei.uc.pt",
+      "role": "internal_examiner",
+      "online": "True"
+    }
+  ],
+  "external_examiner": [
+    {
+      "name": "Bo Liu",
+      "email": "boliu@cqupt.edu.cn",
+      "role": "external_examiner",
+      "online": "False"
+    },
+    {
+      "name": "Luísa Coheur",
+      "email": "luisa.coheur@inesc-id.pt",
+      "role": "external_examiner",
+      "online": "True"
+    }
+  ],
+  "secretary": [
+    {
+      "name": "Yuhuan Lu",
+      "email": "yhlu@mpu.edu.mo",
+      "role": "secretary",
+      "title": "Dr."
+    }
+  ],
+  "batch_number": "PCOM2026-2",
+  "title_thesis": "Improving the Reliability and Accuracy of Dialogue-Based Natural Language Generation",
+  "invitation": {
+    "submission_date": "2026-06-18",
+    "oral_defence_date": "2026-06-29",
+    "oral_defence_time_start": "16:00",
+    "oral_defence_time_end": "18:30",
+    "ipmedumo_sharelink": ""
+  },
+  "oral_defence_exam": {
+    "oral_defence_date": "2026-06-29",
+    "oral_defence_time_start": "16:00",
+    "oral_defence_time_end": "18:30",
+    "time_region": "UTC+8, Macao Local Time",
+    "Venue": "N51, 5/F, Wui Chi Building, Main Campus",
+    "online_meeting_link": "",
+    "online_meeting_number": ""
+  },
+  "defence_files_to_secretary": { "oral_defence_link": "" },
+  "revise_after_defence": { "upload_deadline_date": "" },
+  "final": { "upload_deadline_date": "" }
+}
