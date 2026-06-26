@@ -1,0 +1,40 @@
+{
+    "id": "P2317001",
+    "name": "Keyan Jin",
+    "file_name": "P2317001-Keyan Jin-defence-internal-ballot-form-2026-2-Luísa Coheur.pdf",
+    "sign_info": [
+        {
+            "email": "wke@mpu.edu.mo",
+            "name": "Wei Ke",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 169.0,
+                        "y": 622.0,
+                        "w": 82.0,
+                        "h": 38.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 204.0,
+                        "y": 725.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "luisa.coheur@inesc-id.pt",
+            "name": "Luísa Coheur",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

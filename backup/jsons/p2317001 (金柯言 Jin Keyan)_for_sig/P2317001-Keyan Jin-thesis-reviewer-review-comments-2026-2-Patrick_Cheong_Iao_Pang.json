@@ -1,0 +1,32 @@
+{
+    "id": "P2317001",
+    "name": "Keyan Jin",
+    "file_name": "P2317001-Keyan Jin-thesis-reviewer-review-comments-2026-2-Patrick_Cheong_Iao_Pang.pdf",
+    "sign_info": [
+        {
+            "email": "wke@mpu.edu.mo",
+            "name": "Wei Ke",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 187.0,
+                        "y": 790.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": -1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "luisa.coheur@inesc-id.pt",
+            "name": "Luísa Coheur",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}
