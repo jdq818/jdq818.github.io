@@ -1,0 +1,113 @@
+{
+    "id": "P2209316",
+    "name": "Qin Li",
+    "file_name": "P2209316-Qin Li-defence-assessment-form-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "laidehua@mail.sysu.edu.cn",
+            "name": "Dehua Lai",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 334.0,
+                        "y": 751.0,
+                        "w": 75.0,
+                        "h": 35.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 301.0,
+                        "y": 776.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 2
+                    },
+                    {
+                        "id": "box_003",
+                        "x": 301.0,
+                        "y": 776.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 3
+                    },
+                    {
+                        "id": "box_004",
+                        "x": 301.0,
+                        "y": 776.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 4
+                    },
+                    {
+                        "id": "box_005",
+                        "x": 253.0,
+                        "y": 482.0,
+                        "w": 218.0,
+                        "h": 35.0,
+                        "p": 5
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "weileyi@mpu.edu.mo",
+            "name": "Leyi Wei",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 334.0,
+                        "y": 751.0,
+                        "w": 75.0,
+                        "h": 35.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 358.0,
+                        "y": 778.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 2
+                    },
+                    {
+                        "id": "box_003",
+                        "x": 358.0,
+                        "y": 778.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 3
+                    },
+                    {
+                        "id": "box_004",
+                        "x": 358.0,
+                        "y": 778.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 4
+                    },
+                    {
+                        "id": "box_005",
+                        "x": 253.0,
+                        "y": 526.0,
+                        "w": 218.0,
+                        "h": 35.0,
+                        "p": 5
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "dengqiang.jia@mpu.edu.mo",
+            "name": "Dengqiang Jia",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

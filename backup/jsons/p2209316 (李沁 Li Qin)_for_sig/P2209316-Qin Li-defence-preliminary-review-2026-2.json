@@ -1,0 +1,65 @@
+{
+    "id": "P2209316",
+    "name": "Qin Li",
+    "file_name": "P2209316-Qin Li-defence-preliminary-review-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "laidehua@mail.sysu.edu.cn",
+            "name": "Dehua Lai",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 657.0,
+                        "w": 213.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 277.0,
+                        "y": 751.0,
+                        "w": 104.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "weileyi@mpu.edu.mo",
+            "name": "Leyi Wei",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 683.0,
+                        "w": 213.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 381.0,
+                        "y": 751.0,
+                        "w": 104.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "dengqiang.jia@mpu.edu.mo",
+            "name": "Dengqiang Jia",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}
