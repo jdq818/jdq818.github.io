@@ -1,32 +1,32 @@
 {
-  "id": "P2209316",
-  "name": "Qin Li",
-  "file_name": "P2209316-Qin Li-defence-internal-ballot-form-2026-2-Leyi Wei.pdf",
-  "sign_info": [
-    {
-      "email": "weileyi@mpu.edu.mo",
-      "name": "Leyi Wei",
-      "signatures": {
-        "locations": [
-          {
-            "id": "box_001",
-            "x": 449.0,
-            "y": 791.0,
-            "w": 65.0,
-            "h": 30.0,
-            "p": [1, 2]
-          }
-        ],
-        "type": "full"
-      }
-    },
-    {
-      "email": "dengqiang.jia@mpu.edu.mo",
-      "name": "Dengqiang Jia",
-      "signatures": {
-        "locations": [],
-        "type": "none"
-      }
-    }
-  ]
+    "id": "P2209316",
+    "name": "Qin Li",
+    "file_name": "P2209316-Qin Li-defence-internal-ballot-form-2026-2-Leyi Wei.pdf",
+    "sign_info": [
+        {
+            "email": "weileyi@mpu.edu.mo",
+            "name": "Leyi Wei",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": 1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "dengqiang.jia@mpu.edu.mo",
+            "name": "Dengqiang Jia",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
 }
