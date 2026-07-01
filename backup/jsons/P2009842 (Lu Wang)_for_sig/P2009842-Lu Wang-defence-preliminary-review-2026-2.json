@@ -4,6 +4,31 @@
     "file_name": "P2009842-Lu Wang-defence-preliminary-review-2026-2.pdf",
     "sign_info": [
         {
+            "email": "ctlam@mpu.edu.mo",
+            "name": "Chan Tong Lam",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 627.0,
+                        "w": 200.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 173.0,
+                        "y": 713.0,
+                        "w": 416.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
             "email": "haesik.kim@vtt.fi",
             "name": "Haesik Kim",
             "signatures": {
@@ -19,6 +44,81 @@
                     {
                         "id": "box_002",
                         "x": 173.0,
+                        "y": 748.0,
+                        "w": 104.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "luowuman@mpu.edu.mo",
+            "name": "Wuman Luo",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 683.0,
+                        "w": 200.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 277.0,
+                        "y": 748.0,
+                        "w": 104.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "xcyuan@mpu.edu.mo",
+            "name": "Xiaochen Yuan",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 711.0,
+                        "w": 200.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 381.0,
+                        "y": 748.0,
+                        "w": 104.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "eddielaw@mpu.edu.mo",
+            "name": "Eddie Ka Lun Law",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 740.0,
+                        "w": 200.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 485.0,
                         "y": 748.0,
                         "w": 104.0,
                         "h": 35.0,
