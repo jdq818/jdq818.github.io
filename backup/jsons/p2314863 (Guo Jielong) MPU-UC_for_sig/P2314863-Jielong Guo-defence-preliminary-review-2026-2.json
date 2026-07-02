@@ -1,0 +1,115 @@
+{
+    "id": "P2314863",
+    "name": "Jielong Guo",
+    "file_name": "P2314863-Jielong Guo-defence-preliminary-review-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "rmch@tecnico.ulisboa.pt",
+            "name": "Rui Henriques",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 631.0,
+                        "w": 200.0,
+                        "h": 23.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 173.0,
+                        "y": 675.0,
+                        "w": 195.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "naml@dei.uc.pt",
+            "name": "Nuno Lourenço",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 698.0,
+                        "w": 200.0,
+                        "h": 23.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 368.0,
+                        "y": 711.0,
+                        "w": 195.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "bng@mpu.edu.mo",
+            "name": "Benjamin Koon Kei Ng",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 719.0,
+                        "w": 200.0,
+                        "h": 23.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 173.0,
+                        "y": 746.0,
+                        "w": 195.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "pha@dei.uc.pt",
+            "name": "Pedro Henriques Abreu",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 740.0,
+                        "w": 200.0,
+                        "h": 23.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 368.0,
+                        "y": 746.0,
+                        "w": 195.0,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "dengqiang.jia@mpu.edu.mo",
+            "name": "Dengqiang Jia",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

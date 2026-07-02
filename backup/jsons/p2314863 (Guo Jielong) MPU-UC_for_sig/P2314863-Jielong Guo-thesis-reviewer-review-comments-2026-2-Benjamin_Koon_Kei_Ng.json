@@ -1,0 +1,32 @@
+{
+    "id": "P2314863",
+    "name": "Jielong Guo",
+    "file_name": "P2314863-Jielong Guo-thesis-reviewer-review-comments-2026-2-Benjamin_Koon_Kei_Ng.pdf",
+    "sign_info": [
+        {
+            "email": "bng@mpu.edu.mo",
+            "name": "Benjamin Koon Kei Ng",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": -1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "dengqiang.jia@mpu.edu.mo",
+            "name": "Dengqiang Jia",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "P2314850",
+    "name": "Shaobin Chen",
+    "file_name": "P2314850-Shaobin Chen-defence-internal-ballot-form-2026-2-Wenjin Wang.pdf",
+    "sign_info": [
+        {
+            "email": "wangwj3@sustech.edu.cn",
+            "name": "Wenjin Wang",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": 1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "chesterwong@mpu.edu.mo",
+            "name": "Un Hong Wong",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "P1605115",
+    "name": "Ka Ian Chan",
+    "file_name": "P1605115-Ka Ian Chan-thesis-reviewer-review-comments-2026-2-António_José_Mendes.pdf",
+    "sign_info": [
+        {
+            "email": "toze@dei.uc.pt",
+            "name": "António José Mendes",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": -1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "yhlu@mpu.edu.mo",
+            "name": "Yuhuan Lu",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}
