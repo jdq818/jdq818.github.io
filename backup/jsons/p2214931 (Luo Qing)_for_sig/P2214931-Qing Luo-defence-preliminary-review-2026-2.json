@@ -1,0 +1,40 @@
+{
+    "id": "P2214931",
+    "name": "Qing Luo",
+    "file_name": "P2214931-Qing Luo-defence-preliminary-review-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "fengz@njau.edu.cn",
+            "name": "Feng Zhang",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 656.0,
+                        "w": 200.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 173.0,
+                        "y": 747.5,
+                        "w": 97.5,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "zhuyifanye@mpu.edu.mo",
+            "name": "Zhuyifan Ye",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

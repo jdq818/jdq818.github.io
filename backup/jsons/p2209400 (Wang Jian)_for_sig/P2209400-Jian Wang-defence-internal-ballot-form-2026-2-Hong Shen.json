@@ -1,0 +1,32 @@
+{
+    "id": "P2209400",
+    "name": "Jian Wang",
+    "file_name": "P2209400-Jian Wang-defence-internal-ballot-form-2026-2-Hong Shen.pdf",
+    "sign_info": [
+        {
+            "email": "h.shen@cqu.edu.au",
+            "name": "Hong Shen",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": 1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "maojia@mpu.edu.mo",
+            "name": "Jia Mao",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

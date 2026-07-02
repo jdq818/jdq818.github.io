@@ -1,0 +1,65 @@
+{
+    "id": "P2314653",
+    "name": "Chongxing Ji",
+    "file_name": "P2314653-Chongxing Ji-defence-preliminary-review-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "heyl@mail.buct.edu.cn",
+            "name": "Yanlin He",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 656.0,
+                        "w": 200.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 173.0,
+                        "y": 747.5,
+                        "w": 97.5,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "xuyuan@mail.buct.edu.cn",
+            "name": "Yuan Xu",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 363.0,
+                        "y": 740.0,
+                        "w": 200.0,
+                        "h": 29.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 465.5,
+                        "y": 747.5,
+                        "w": 97.5,
+                        "h": 35.0,
+                        "p": 2
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "raoww@mpu.edu.mo",
+            "name": "Wenwang Rao",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

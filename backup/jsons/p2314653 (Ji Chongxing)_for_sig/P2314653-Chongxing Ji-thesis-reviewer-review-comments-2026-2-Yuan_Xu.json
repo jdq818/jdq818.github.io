@@ -1,0 +1,32 @@
+{
+    "id": "P2314653",
+    "name": "Chongxing Ji",
+    "file_name": "P2314653-Chongxing Ji-thesis-reviewer-review-comments-2026-2-Yuan_Xu.pdf",
+    "sign_info": [
+        {
+            "email": "xuyuan@mail.buct.edu.cn",
+            "name": "Yuan Xu",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": -1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "raoww@mpu.edu.mo",
+            "name": "Wenwang Rao",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

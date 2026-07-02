@@ -1,0 +1,56 @@
+{
+    "id": "P2209467",
+    "name": "Wenxiang Li",
+    "file_name": "P2209467-Wenxiang Li-defence-assessment-form-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "ivan.lee@adelaide.edu.au",
+            "name": "Ivan Lee",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 267.0,
+                        "y": 751.0,
+                        "w": 75.0,
+                        "h": 35.0,
+                        "p": 1
+                    },
+                    {
+                        "id": "box_002",
+                        "x": 305.0,
+                        "y": 790.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 2
+                    },
+                    {
+                        "id": "box_003",
+                        "x": 301.0,
+                        "y": 776.0,
+                        "w": 60.0,
+                        "h": 28.0,
+                        "p": 3
+                    },
+                    {
+                        "id": "box_004",
+                        "x": 253.0,
+                        "y": 482.0,
+                        "w": 218.0,
+                        "h": 35.0,
+                        "p": 4
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "zhuyifanye@mpu.edu.mo",
+            "name": "Zhuyifan Ye",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}

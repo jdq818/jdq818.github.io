@@ -1,0 +1,32 @@
+{
+    "id": "P2209400",
+    "name": "Jian Wang",
+    "file_name": "P2209400-Jian Wang-thesis-reviewer-review-comments-2026-2-Jianbiao_Zhang.pdf",
+    "sign_info": [
+        {
+            "email": "zjb@bjut.edu.cn",
+            "name": "Jianbiao Zhang",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": -1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "maojia@mpu.edu.mo",
+            "name": "Jia Mao",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}
