@@ -1,0 +1,32 @@
+{
+    "id": "P2209392",
+    "name": "Xiaoyuan Huang",
+    "file_name": "P2209392-Xiaoyuan Huang-defence-minutes-question-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "mao@szu.edu.cn",
+            "name": "Mao Rui",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 187.0,
+                        "y": 790.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": -1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "rschen@mpu.edu.mo",
+            "name": "Rongshan Chen",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}
