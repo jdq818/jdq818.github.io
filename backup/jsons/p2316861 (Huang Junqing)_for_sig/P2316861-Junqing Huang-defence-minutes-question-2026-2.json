@@ -1,0 +1,32 @@
+{
+    "id": "P2316861",
+    "name": "Junqing Huang",
+    "file_name": "P2316861-Junqing Huang-defence-minutes-question-2026-2.pdf",
+    "sign_info": [
+        {
+            "email": "xiamin@nuist.edu.cn",
+            "name": "Min Xia",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 187.0,
+                        "y": 790.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": -1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "yfgu@mpu.edu.mo",
+            "name": "Yefu Gu",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}
