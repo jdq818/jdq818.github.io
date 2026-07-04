@@ -54,31 +54,6 @@
             }
         },
         {
-            "email": "bng@mpu.edu.mo",
-            "name": "Benjamin Koon Kei Ng",
-            "signatures": {
-                "locations": [
-                    {
-                        "id": "box_001",
-                        "x": 363.0,
-                        "y": 719.0,
-                        "w": 200.0,
-                        "h": 23.0,
-                        "p": 1
-                    },
-                    {
-                        "id": "box_002",
-                        "x": 173.0,
-                        "y": 746.0,
-                        "w": 195.0,
-                        "h": 35.0,
-                        "p": 2
-                    }
-                ],
-                "type": "full"
-            }
-        },
-        {
             "email": "pha@dei.uc.pt",
             "name": "Pedro Henriques Abreu",
             "signatures": {
