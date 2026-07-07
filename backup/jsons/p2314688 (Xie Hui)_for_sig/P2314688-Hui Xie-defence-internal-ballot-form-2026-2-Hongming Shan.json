@@ -1,0 +1,32 @@
+{
+    "id": "P2314688",
+    "name": "Hui Xie",
+    "file_name": "P2314688-Hui Xie-defence-internal-ballot-form-2026-2-Hongming Shan.pdf",
+    "sign_info": [
+        {
+            "email": "hmshan@fudan.edu.cn",
+            "name": "Hongming Shan",
+            "signatures": {
+                "locations": [
+                    {
+                        "id": "box_001",
+                        "x": 449.0,
+                        "y": 791.0,
+                        "w": 65.0,
+                        "h": 30.0,
+                        "p": 1
+                    }
+                ],
+                "type": "full"
+            }
+        },
+        {
+            "email": "hylu@mpu.edu.mo",
+            "name": "Hsuan-Yu Lu",
+            "signatures": {
+                "locations": [],
+                "type": "none"
+            }
+        }
+    ]
+}
