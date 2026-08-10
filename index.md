@@ -29,6 +29,9 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 
 ## News and Updates
 
+- **Aug 2026**：One paper is accepted as Oral Presentation by [**MLMI**](https://sites.google.com/view/mlmi2026/).
+- **July 2026**：One paper is accepted by [**Nature Communications**[IF=15.7]](https://www.nature.com/ncomms/).
+- **July 2026**：One paper is accepted by [**npj Digital Medicine**[IF=18.0]](https://www.nature.com/npjdigitalmed).
 - **June 2026**：Two papers are accepted by [**MICCAI 2026**](https://conferences.miccai.org/2026/en/default.asp).
 - **June 2026**：Dr. Jia becomes a Committee Member of Medical Image Computing Seminar ([**MICS**](https://www.mics-ai.com/)).
 - **June 2026**：One journal paper is accepted by [**npj Digital Medicine**[IF=12.4]](https://www.nature.com/npjdigitalmed/).
