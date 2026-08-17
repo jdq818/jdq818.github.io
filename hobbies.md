@@ -9,6 +9,7 @@ I would like to record my feelings and life by writings.
 # Hobbies
 
 ## Poems
+
 <style>
    .modal {
       display: none;
@@ -55,9 +56,12 @@ I would like to record my feelings and life by writings.
 <img src="https://jdq818.github.io/hobbies/poems/Monks.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Xiaozun.jpg" alt="image" onclick="showModal(this)">
 <img src="https://jdq818.github.io/hobbies/poems/Walk.jpg" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/hobbies/poems/tibet1.jpg" alt="image" onclick="showModal(this)">
+<img src="https://jdq818.github.io/hobbies/poems/tibet2.jpg" alt="image" onclick="showModal(this)">
 </div>
 
 <br>
 
 ## Readings
+
 <br>
