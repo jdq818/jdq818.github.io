@@ -6,6 +6,7 @@
     {
       "email": "luisa.coheur@inesc-id.pt",
       "name": "Luísa Coheur",
+      "confirmed": true,
       "signatures": {
         "locations": [
           {
@@ -55,13 +56,13 @@
             }
           }
         ],
-        "type": "full",
-        "confirmed": "False"
+        "type": "full"
       }
     },
     {
       "email": "catarina@dei.uc.pt",
       "name": "Catarina Silva",
+      "confirmed": false,
       "signatures": {
         "locations": [
           {
@@ -111,13 +112,13 @@
             }
           }
         ],
-        "type": "full",
-        "confirmed": "False"
+        "type": "full"
       }
     },
     {
       "email": "hroliv@dei.uc.pt",
       "name": "Hugo Gonçalo Oliveira",
+      "confirmed": false,
       "signatures": {
         "locations": [
           {
@@ -167,8 +168,7 @@
             }
           }
         ],
-        "type": "full",
-        "confirmed": "False"
+        "type": "full"
       }
     },
     {
