@@ -6,7 +6,6 @@
     {
       "email": "luisa.coheur@inesc-id.pt",
       "name": "Luísa Coheur",
-      "role": "Examiner",
       "confirmed": true,
       "signatures": {
         "locations": [
@@ -63,7 +62,6 @@
     {
       "email": "catarina@dei.uc.pt",
       "name": "Catarina Silva",
-      "role": "Examiner",
       "confirmed": false,
       "signatures": {
         "locations": [
@@ -120,7 +118,6 @@
     {
       "email": "hroliv@dei.uc.pt",
       "name": "Hugo Gonçalo Oliveira",
-      "role": "Examiner",
       "confirmed": false,
       "signatures": {
         "locations": [
@@ -177,7 +174,6 @@
     {
       "email": "yhlu@mpu.edu.mo",
       "name": "Yuhuan Lu",
-      "role": "Secretary",
       "signatures": {
         "locations": [],
         "type": "none"
