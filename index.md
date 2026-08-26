@@ -29,6 +29,7 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 
 ## News and Updates
 
+- **Aug 2026**：Teaching: Introduction to Programming
 - **Aug 2026**：One paper is accepted as Oral Presentation by [**MLMI**](https://sites.google.com/view/mlmi2026/).
 - **July 2026**：One paper is accepted by [**Nature Communications**[IF=15.7]](https://www.nature.com/ncomms/).
 - **July 2026**：One paper is accepted by [**npj Digital Medicine**[IF=18.0]](https://www.nature.com/npjdigitalmed).
