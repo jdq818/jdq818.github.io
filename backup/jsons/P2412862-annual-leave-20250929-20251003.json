@@ -1,0 +1,37 @@
+{
+  "id": "P2412862",
+  "name": "Lihao Zhuang",
+  "file_name": "P2412862-annual-leave-20250929-20251003.pdf",
+  "sign_info": [
+    {
+      "email": "tantao.mpu.edu.mo",
+      "name": "Tao Tan",
+      "role": "Supervisor",
+      "confirmed": false,
+      "signatures": {
+        "locations": [],
+        "type": "full"
+      }
+    },
+    {
+      "email": "P2412862@mpu.edu.mo",
+      "name": "Lihao Zhuang",
+      "role": "Student",
+      "confirmed": false,
+      "signatures": {
+        "locations": [],
+        "type": "full"
+      }
+    },
+    {
+      "email": "wke@mpu.edu.mo",
+      "name": "Wei Ke",
+      "role": "Coordinator",
+      "confirmed": false,
+      "signatures": {
+        "locations": [],
+        "type": "full"
+      }
+    }
+  ]
+}
