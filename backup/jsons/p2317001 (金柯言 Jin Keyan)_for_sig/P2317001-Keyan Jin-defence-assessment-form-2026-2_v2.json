@@ -1,0 +1,187 @@
+{
+  "id": "P2317001",
+  "name": "Keyan Jin",
+  "file_name": "P2317001-Keyan Jin-defence-assessment-form-2026-2.pdf",
+  "sign_info": [
+    {
+      "email": "luisa.coheur@inesc-id.pt",
+      "name": "Luísa Coheur",
+      "role": "Examiner",
+      "confirmed": true,
+      "signatures": {
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 116.0,
+            "y": 749.0,
+            "w": 75.0,
+            "h": 35.0,
+            "p": 1
+          },
+          {
+            "id": "box_002",
+            "x": 175.0,
+            "y": 780.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 2
+          },
+          {
+            "id": "box_003",
+            "x": 175.0,
+            "y": 780.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 3
+          },
+          {
+            "id": "box_004",
+            "x": 175.0,
+            "y": 780.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 4
+          },
+          {
+            "id": "box_005",
+            "x": 253.0,
+            "y": 485.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 5,
+            "date_offsets": {
+              "x": 100.0,
+              "y": 0.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          }
+        ],
+        "type": "full"
+      }
+    },
+    {
+      "email": "catarina@dei.uc.pt",
+      "name": "Catarina Silva",
+      "role": "Examiner",
+      "confirmed": false,
+      "signatures": {
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 334.0,
+            "y": 751.0,
+            "w": 75.0,
+            "h": 35.0,
+            "p": 1
+          },
+          {
+            "id": "box_002",
+            "x": 358.0,
+            "y": 778.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 2
+          },
+          {
+            "id": "box_003",
+            "x": 358.0,
+            "y": 778.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 3
+          },
+          {
+            "id": "box_004",
+            "x": 358.0,
+            "y": 778.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 4
+          },
+          {
+            "id": "box_005",
+            "x": 253.0,
+            "y": 607.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 5,
+            "date_offsets": {
+              "x": 100.0,
+              "y": 0.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          }
+        ],
+        "type": "full"
+      }
+    },
+    {
+      "email": "hroliv@dei.uc.pt",
+      "name": "Hugo Gonçalo Oliveira",
+      "role": "Examiner",
+      "confirmed": false,
+      "signatures": {
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 480.0,
+            "y": 753.0,
+            "w": 75.0,
+            "h": 35.0,
+            "p": 1
+          },
+          {
+            "id": "box_002",
+            "x": 473.0,
+            "y": 778.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 2
+          },
+          {
+            "id": "box_003",
+            "x": 473.0,
+            "y": 778.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 3
+          },
+          {
+            "id": "box_004",
+            "x": 473.0,
+            "y": 778.0,
+            "w": 60.0,
+            "h": 28.0,
+            "p": 4
+          },
+          {
+            "id": "box_005",
+            "x": 253.0,
+            "y": 685.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 5,
+            "date_offsets": {
+              "x": 100.0,
+              "y": 0.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          }
+        ],
+        "type": "full"
+      }
+    },
+    {
+      "email": "yhlu@mpu.edu.mo",
+      "name": "Yuhuan Lu",
+      "role": "Secretary",
+      "signatures": {
+        "locations": [],
+        "type": "none"
+      }
+    }
+  ]
+}
