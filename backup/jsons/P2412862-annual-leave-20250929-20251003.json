@@ -4,6 +4,16 @@
   "file_name": "P2412862-annual-leave-20250929-20251003.pdf",
   "sign_info": [
     {
+      "email": "P2412862@mpu.edu.mo",
+      "name": "Lihao Zhuang",
+      "role": "Student",
+      "confirmed": false,
+      "signatures": {
+        "locations": [],
+        "type": "full"
+      }
+    },
+    {
       "email": "xcyuan@mpu.edu.mo",
       "name": "Xiaochen Yuan",
       "role": "Supervisor",
@@ -13,17 +23,11 @@
         "type": "full"
       },
       "remarks": {
-        "text": [{ "Remarks": "I will go back to uni three days" }],
-        "locations": [],
-        "type": "full"
-      }
-    },
-    {
-      "email": "P2412862@mpu.edu.mo",
-      "name": "Lihao Zhuang",
-      "role": "Student",
-      "confirmed": false,
-      "signatures": {
+        "text": [
+          {
+            "Remarks": "I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor.I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor."
+          }
+        ],
         "locations": [],
         "type": "full"
       }
