@@ -29,7 +29,7 @@ Feel free to reach out at — **dengqiang.jia@mpu.edu.mo**
 
 ## News and Updates
 
-- **Sep 2026**：One paper is accepted as Oral Presentation by [**IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**[IF=10.8]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+- **Sep 2026**：One paper is accepted by [**IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**[IF=10.8]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - **Aug 2026**：Teaching: Introduction to Programming
 - **Aug 2026**：One paper is accepted as Oral Presentation by [**MLMI**](https://sites.google.com/view/mlmi2026/).
 - **July 2026**：One paper is accepted by [**Nature Communications**[IF=15.7]](https://www.nature.com/ncomms/).
