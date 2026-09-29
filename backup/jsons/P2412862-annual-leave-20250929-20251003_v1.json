@@ -12,6 +12,15 @@
       "signatures": {
         "locations": [],
         "type": "full"
+      },
+      "remarks": {
+        "text": [
+          {
+            "Remarks": "I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor.I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor."
+          }
+        ],
+        "locations": [],
+        "type": "full"
       }
     },
     {
@@ -26,7 +35,7 @@
       "remarks": {
         "text": [
           {
-            "Remarks": "I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor.I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor."
+            "Remarks": "Approved."
           }
         ],
         "locations": [],
