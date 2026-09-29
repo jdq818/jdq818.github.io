@@ -13,8 +13,8 @@
         "locations": [
           {
             "id": "box_001",
-            "x": 162.0,
-            "y": 694.0,
+            "x": 149.0,
+            "y": 454.0,
             "w": 200.0,
             "h": 35.0,
             "p": 1
@@ -28,16 +28,7 @@
             "Remarks": "I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor.I need three days off to go home for the Lunar New Year. I will return to school on February 5. Please approve this request, Advisor."
           }
         ],
-        "locations": [
-          {
-            "id": "box_001",
-            "x": 162.0,
-            "y": 694.0,
-            "w": 200.0,
-            "h": 35.0,
-            "p": 1
-          }
-        ],
+        "locations": [],
         "type": "full"
       }
     },
@@ -47,7 +38,16 @@
       "role": "Supervisor",
       "confirmed": false,
       "signatures": {
-        "locations": [],
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 154.0,
+            "y": 612.0,
+            "w": 200.0,
+            "h": 35.0,
+            "p": 1
+          }
+        ],
         "type": "full"
       },
       "remarks": {
@@ -66,7 +66,16 @@
       "role": "Coordinator",
       "confirmed": false,
       "signatures": {
-        "locations": [],
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 162.0,
+            "y": 694.0,
+            "w": 200.0,
+            "h": 35.0,
+            "p": 1
+          }
+        ],
         "type": "full"
       }
     }
