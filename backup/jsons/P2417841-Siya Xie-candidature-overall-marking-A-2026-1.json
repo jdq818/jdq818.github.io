@@ -1,0 +1,149 @@
+{
+  "id": "P2417841",
+  "name": "Siya Xie",
+  "file_name": "P2417841-Siya Xie-candidature-overall-marking-A-2026-1.pdf",
+  "callback": "https://fca-portal.mpu.edu.mo/callback/",
+  "sign_info": [
+    {
+      "email": "wke@mpu.edu.mo",
+      "name": "Wei Ke",
+      "role": "Chair",
+      "confirmed": false,
+      "signatures": {
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 116.0,
+            "y": 749.0,
+            "w": 75.0,
+            "h": 35.0,
+            "p": 1
+          },
+          {
+            "id": "box_002",
+            "x": 253.0,
+            "y": 485.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 3,
+            "date_offsets": {
+              "x": 100.0,
+              "y": 0.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          },
+          {
+            "id": "box_003",
+            "x": 253.0,
+            "y": 485.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 3,
+            "date_offsets": {
+              "x": 0.0,
+              "y": 20.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          }
+        ],
+        "type": "full"
+      }
+    },
+    {
+      "email": "eddielaw@mpu.edu.mo",
+      "name": "Eddie Ka Lun Law",
+      "role": "Supervisor",
+      "confirmed": false,
+      "signatures": {
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 116.0,
+            "y": 749.0,
+            "w": 75.0,
+            "h": 35.0,
+            "p": 1
+          },
+          {
+            "id": "box_002",
+            "x": 253.0,
+            "y": 485.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 3,
+            "date_offsets": {
+              "x": 100.0,
+              "y": 0.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          },
+          {
+            "id": "box_003",
+            "x": 253.0,
+            "y": 485.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 4,
+            "date_offsets": {
+              "x": 0.0,
+              "y": 20.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          }
+        ],
+        "type": "full"
+      }
+    },
+    {
+      "email": "dengqiang.jia@mpu.edu.mo",
+      "name": "Dengqiang Jia",
+      "role": "Examiner",
+      "confirmed": false,
+      "signatures": {
+        "locations": [
+          {
+            "id": "box_001",
+            "x": 116.0,
+            "y": 749.0,
+            "w": 75.0,
+            "h": 35.0,
+            "p": 1
+          },
+          {
+            "id": "box_002",
+            "x": 253.0,
+            "y": 485.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 3,
+            "date_offsets": {
+              "x": 100.0,
+              "y": 0.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          },
+          {
+            "id": "box_003",
+            "x": 253.0,
+            "y": 485.0,
+            "w": 218.0,
+            "h": 35.0,
+            "p": 5,
+            "date_offsets": {
+              "x": 0.0,
+              "y": 20.0,
+              "w": 0.0,
+              "h": 0.0
+            }
+          }
+        ],
+        "type": "full"
+      }
+    }
+  ]
+}
